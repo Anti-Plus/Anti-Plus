@@ -24,7 +24,8 @@ If you are not able to install the bot in Ubuntu 14, an upgrade to Ubuntu 16.04 
 
 After installing the dependencies, lets install the bot:
 ```bash
- https://github.com/Anti-Plus/Anti-Plus
+ 
+git clone https://github.com/Anti-Plus/Anti-Plus.git
  cd Anti-*
  chmod +x C
  ./C install
