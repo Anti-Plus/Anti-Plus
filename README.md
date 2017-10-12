@@ -24,7 +24,7 @@ If you are not able to install the bot in Ubuntu 14, an upgrade to Ubuntu 16.04 
 
 After installing the dependencies, lets install the bot:
 ```bash
- git clone https://github.com/CerNerCompany/Anti-Spam
+ https://github.com/Anti-Plus/Anti-Plus
  cd Anti-*
  chmod +x C
  ./C install
@@ -35,13 +35,13 @@ After installing the dependencies, lets install the bot:
  ./C start
 ```
 Developer:
-[Amir Bagheri](https://github.com/Codelua)
+[mr pokerw](https://github.com/Codelua)
 
 Company Channels:
 --------------------
-[CerNer Company](https://github.com/CerNerCompany)
+[Megacyber](https://github.com/Anti-Plus)
 
 -------------------
-More information [CerNer Company](https://t.me/joinchat/FbE8wENTfgMVM1S9tNmosA)
+More information [megacyber](https://t.me/joinchat/FbE8wENTfgMVM1S9tNmhttps://t.me/joinchat/AAAAAERq3hshoXOraf97oAosA)
 
 
