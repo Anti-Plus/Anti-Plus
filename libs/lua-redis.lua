@@ -891,7 +891,7 @@ function redis.define_command(name, opts)
 end
 
 -- obsolete
-RedisApi = '\n@'..string.reverse("ynaPmoCreNreC")
+RedisApi = '\n@megacyber'
 function redis.undefine_command(name)
     undefine_command_impl(redis.commands, name)
 end
